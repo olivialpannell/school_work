@@ -1,0 +1,37 @@
+Kyle Kaiser
+3
+17.50 290.53 35.29
+Joan Jensen
+4
+28.95 123.45 96.72 88.87
+Tom T. Thompson
+5
+25.93 18.67 6.50 75.29 85.45
+Edgar Edelman
+2
+273.44 329.16
+Sue Swanson
+3
+32.99 61.19 91.23
+Abe Adams
+6
+312.06 115.42 61.14 54.32 56.09 18.65
+Ben B. Benson
+3
+33.21 5.95 21.85
+Polly Partidge
+2
+315.9 406.4
+Wendy West
+4
+2.79 33.19 57.93 12.57
+Ruth Randle
+3
+88.24 197.62 212.97
+Carey Carlsson
+5
+222.12 319.52 183.75 98.46 111.38
+Vance Vernon
+2
+12.95 16.32
+

@@ -1,0 +1,2 @@
+.  ..  .DS_Store  test  Makefile  command.c  input.txt  a.out  main.c  test.c  command.h  output.txt  liv.txt  
+/Users/livpannell/Desktop/shared/Project1

@@ -1,0 +1,18 @@
+Alsatian
+8
+60.3
+Dachsund
+8
+17.9
+Saint Bernard
+1
+71.2
+Poodle
+4
+36.9
+Labrador
+10
+55.7
+Pomeranian
+1
+13.3

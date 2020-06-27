@@ -1,0 +1,51 @@
+part 1.
+type topic entry data structure 0 < n < MaxEntries
+use a struct ^
+Struct TEQ
+{
+head
+tail
+bufsize ?
+mutex
+}
+
+
+Topics
+(numEntry    )
+
+define functions
+threads will use the functions
+enqueue- push topic entry onto queue and change the head and tail pointer
+give topic entry number, timestamp in enqueue
+
+getentry- go to topic queue (assume no one is writing to the queue
+start at tail function and move forward
+looks for the LastEntry + 1 (get the entry number of last one and increment it)
+DOES NOT POP ANYTHING THROUGH THE QUEUE
+
+dequeue-
+some time delta which is a change in time from one time to another. Compare the time delta and timestamp vs current time. if older then pop the topic, starting at the tail. 
+after hitting first one that is old, exit function.
+
+build structs on demand, macro for defining structs.
+program must use Pthreads, don't use sleep
+
+race condition
+thread safety
+
+Part 2:
+spawn threads (threads pool)
+
+Part 3:
+take free thread point it to a function (do something with the command file. If publisher it will call enqueue, if subscriber it will call get entry)
+all they need to do here is print
+
+Part 4:
+define publishers and subscribers. Topic Id is name (ie mountains) 
+sleep in file means just don't do anything for a certain period of time
+
+Part 5:
+subscribers will write to a web page
+collection of tables
+one page for each topic
+link to a url to a photo with a caption

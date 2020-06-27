@@ -1,0 +1,15 @@
+----------------------------------------
+Cold-Call app opened on 2020-02-05
+Class roster located at "/Users/livpannell/Desktop/Desktop/CS/CS422/G3ColdCall/test_roster.txt" imported.
+Sam Geller (sam@gmail.com) was called for a total of 1 times.
+Hailey Firth (hailey@gmail.com) was called for a total of 1 times.
+Bob Bill (hello@gmail.com) was called for a total of 1 times. The student was also flagged for a total of 1 times.
+John Smith (hey@gmail.com) was called for a total of 1 times. The student was also flagged for a total of 1 times.
+Mikayla Campbell (hi@gmail.com) was called for a total of 1 times.
+Sarah Davis (sarah@gmail.com) was called for a total of 1 times.
+----------------------------------------
+Cold-Call app opened on 2020-02-10
+Class roster located at "/Users/livpannell/Desktop/Desktop/CS/CS422/G3ColdCall/test_roster.txt" imported.
+----------------------------------------
+Cold-Call app opened on 2020-02-10
+Class roster located at "/Users/livpannell/Desktop/Desktop/CS/CS422/G3ColdCall/test_roster.txt" imported.

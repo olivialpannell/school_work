@@ -1,0 +1,9 @@
+// Olivia Pannell 
+// Assignment 7: Question 1
+
+
+1-a:
+	The miss rate when running this code is 16/265 or 1/16. This is because when traversing the rows for each block you'll miss one and then for the next 15 bits you'll hit one since the first already occupied the place in the set.
+
+1-b:
+	The miss rate of this code is 1/4. This miss rate is higher because columns are not continuous regions of memory and it'll continue the pattern of miss, hit, hit, hit for the codes' entirety.

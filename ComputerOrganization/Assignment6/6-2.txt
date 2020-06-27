@@ -1,0 +1,25 @@
+//Olivia Pannell
+//Assignment 6
+2.
+	a. The operations that cannot be pipelined are the movss, the adds, and the mulss since these are the operations that depend on a result. 
+
+	b. (float addition)3 + (float multiplication)5 + (int add) 1 + (other instructions) 5 = 14 / (amount of instructions) 6 = 7/3 = 2.33 CPE
+	
+	c. (see file)
+
+	d. After testing, I discovered that the inner2 function takes less than the inner function. The larger the size gets, the larger the difference between inner and inner2 becomes. The graph attached has the following points: (blue is inner and red is inner2)
+	SIZE:			TIME:
+INNER:	10000			0.000003
+INNER2:	10000			0.000002
+
+INNER:	20000			0.000079
+INNER2:	20000			0.000066
+
+INNER:	50000			0.000194
+INNER2:	50000			0.000121
+
+INNER:	100000			0.000354
+INNER2:	100000			0.000209
+
+INNER:	150000			0.000473
+INNER2:	150000			0.000273

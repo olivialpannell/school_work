@@ -1,0 +1,66 @@
+Golden Retriever
+8
+54.9
+German Shepherd
+4
+75.8
+Shih tzu
+1
+37.2
+Collie
+5
+97.8
+Doberman
+4
+80.9
+Terrier
+1
+26.5
+Bassett Hound
+3
+44.2
+Alsatian
+8
+60.3
+Dachsund
+8
+17.9
+Saint Bernard
+1
+71.2
+Poodle
+4
+36.9
+Labrador
+10
+55.7
+Pomeranian
+1
+13.3
+Mutt
+10
+37.8
+Bulldog
+7
+43.5
+Rottweiler
+8
+72.6
+Husky
+3
+66.7
+Pug
+1
+23.3
+Beagle
+10
+24.9
+Pit Bull
+10
+32.1
+Boxer
+8
+47.2
+Chihuahua
+4
+14.6
